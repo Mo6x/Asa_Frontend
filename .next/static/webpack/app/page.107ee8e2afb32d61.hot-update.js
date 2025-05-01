@@ -1,0 +1,21 @@
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("app/page",{
+
+/***/ "(app-pages-browser)/./src/componenets/homePages/headerSections/headerSections.module.css":
+/*!****************************************************************************!*\
+  !*** ./src/componenets/homePages/headerSections/headerSections.module.css ***!
+  \****************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval(__webpack_require__.ts("// extracted by mini-css-extract-plugin\nmodule.exports = {\"headerSectionsContainer\":\"headerSections_headerSectionsContainer__44DQW\",\"contentWrapper\":\"headerSections_contentWrapper__t4gxG\",\"problemTitle\":\"headerSections_problemTitle__ZJE7h\",\"sliderWrapper\":\"headerSections_sliderWrapper__mV4_w\",\"sliderTrack\":\"headerSections_sliderTrack__qsl92\",\"sliderImage\":\"headerSections_sliderImage__JL53V\",\"solutionText\":\"headerSections_solutionText__71gT4\",\"solutionLabel\":\"headerSections_solutionLabel__SKYgV\",\"problemBox\":\"headerSections_problemBox___rAzT\"};\n    if(true) {\n      // 1746097910024\n      var cssReload = __webpack_require__(/*! ./node_modules/next/dist/compiled/mini-css-extract-plugin/hmr/hotModuleReplacement.js */ \"(app-pages-browser)/./node_modules/next/dist/compiled/mini-css-extract-plugin/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"/_next/\",\"esModule\":false,\"locals\":true});\n      module.hot.dispose(cssReload);\n      \n    }\n  \nmodule.exports.__checksum = \"41ffaa168af5\"\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL3NyYy9jb21wb25lbmV0cy9ob21lUGFnZXMvaGVhZGVyU2VjdGlvbnMvaGVhZGVyU2VjdGlvbnMubW9kdWxlLmNzcyIsIm1hcHBpbmdzIjoiQUFBQTtBQUNBLGtCQUFrQjtBQUNsQixPQUFPLElBQVU7QUFDakI7QUFDQSxzQkFBc0IsbUJBQU8sQ0FBQyx3TUFBcUgsY0FBYyxzREFBc0Q7QUFDdk4sTUFBTSxVQUFVO0FBQ2hCO0FBQ0E7QUFDQTtBQUNBLHlCQUF5QiIsInNvdXJjZXMiOlsiL1VzZXJzL21hYy9EZXNrdG9wL0FzYV9Gcm9udGVuZC9zcmMvY29tcG9uZW5ldHMvaG9tZVBhZ2VzL2hlYWRlclNlY3Rpb25zL2hlYWRlclNlY3Rpb25zLm1vZHVsZS5jc3MiXSwic291cmNlc0NvbnRlbnQiOlsiLy8gZXh0cmFjdGVkIGJ5IG1pbmktY3NzLWV4dHJhY3QtcGx1Z2luXG5tb2R1bGUuZXhwb3J0cyA9IHtcImhlYWRlclNlY3Rpb25zQ29udGFpbmVyXCI6XCJoZWFkZXJTZWN0aW9uc19oZWFkZXJTZWN0aW9uc0NvbnRhaW5lcl9fNDREUVdcIixcImNvbnRlbnRXcmFwcGVyXCI6XCJoZWFkZXJTZWN0aW9uc19jb250ZW50V3JhcHBlcl9fdDRneEdcIixcInByb2JsZW1UaXRsZVwiOlwiaGVhZGVyU2VjdGlvbnNfcHJvYmxlbVRpdGxlX19aSkU3aFwiLFwic2xpZGVyV3JhcHBlclwiOlwiaGVhZGVyU2VjdGlvbnNfc2xpZGVyV3JhcHBlcl9fbVY0X3dcIixcInNsaWRlclRyYWNrXCI6XCJoZWFkZXJTZWN0aW9uc19zbGlkZXJUcmFja19fcXNsOTJcIixcInNsaWRlckltYWdlXCI6XCJoZWFkZXJTZWN0aW9uc19zbGlkZXJJbWFnZV9fSkw1M1ZcIixcInNvbHV0aW9uVGV4dFwiOlwiaGVhZGVyU2VjdGlvbnNfc29sdXRpb25UZXh0X183MWdUNFwiLFwic29sdXRpb25MYWJlbFwiOlwiaGVhZGVyU2VjdGlvbnNfc29sdXRpb25MYWJlbF9fU0tZZ1ZcIixcInByb2JsZW1Cb3hcIjpcImhlYWRlclNlY3Rpb25zX3Byb2JsZW1Cb3hfX19yQXpUXCJ9O1xuICAgIGlmKG1vZHVsZS5ob3QpIHtcbiAgICAgIC8vIDE3NDYwOTc5MTAwMjRcbiAgICAgIHZhciBjc3NSZWxvYWQgPSByZXF1aXJlKFwiL1VzZXJzL21hYy9EZXNrdG9wL0FzYV9Gcm9udGVuZC9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2NvbXBpbGVkL21pbmktY3NzLWV4dHJhY3QtcGx1Z2luL2htci9ob3RNb2R1bGVSZXBsYWNlbWVudC5qc1wiKShtb2R1bGUuaWQsIHtcInB1YmxpY1BhdGhcIjpcIi9fbmV4dC9cIixcImVzTW9kdWxlXCI6ZmFsc2UsXCJsb2NhbHNcIjp0cnVlfSk7XG4gICAgICBtb2R1bGUuaG90LmRpc3Bvc2UoY3NzUmVsb2FkKTtcbiAgICAgIFxuICAgIH1cbiAgXG5tb2R1bGUuZXhwb3J0cy5fX2NoZWNrc3VtID0gXCI0MWZmYWExNjhhZjVcIlxuIl0sIm5hbWVzIjpbXSwiaWdub3JlTGlzdCI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(app-pages-browser)/./src/componenets/homePages/headerSections/headerSections.module.css\n"));
+
+/***/ })
+
+});
